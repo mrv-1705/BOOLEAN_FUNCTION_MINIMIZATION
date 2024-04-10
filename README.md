@@ -39,8 +39,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
-```
  Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+```
+
 Name: Kurapati Vishnu Vardhan Reddy
 Developed by: RegisterNumber: 212223040103
 ```
@@ -68,10 +69,12 @@ endmodule
 
 
 **RTL realization**
+
 ![DE EXP 2 RTL](https://github.com/mrv-1705/BOOLEAN_FUNCTION_MINIMIZATION/assets/114565075/a1e5e7c2-eae4-4a33-aea7-026fde0e529c)
 
 
 **Output:**
+
 ![DE EXP 2 OUTPUT](https://github.com/mrv-1705/BOOLEAN_FUNCTION_MINIMIZATION/assets/114565075/a2709398-688a-4fb2-8748-28368437b7cb)
 
 
