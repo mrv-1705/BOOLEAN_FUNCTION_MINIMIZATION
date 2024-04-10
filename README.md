@@ -43,7 +43,7 @@ Hardware – PCs, Cyclone II , USB flasher
 ```
 
 Name: Kurapati Vishnu Vardhan Reddy
-Developed by: RegisterNumber: 212223040103
+RegisterNumber: 212223040103
 ```
 ```
 module Boolean_min(A,B,C,D,W,X,Y,Z,F1,F2);
